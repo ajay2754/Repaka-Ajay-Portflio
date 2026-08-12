@@ -2,6 +2,8 @@ Ajay Repaka — Agentic AI Engineer Portfolio
 
 Welcome to my personal portfolio repository.
 
+<img width="2844" height="1132" alt="image" src="https://github.com/user-attachments/assets/7f999aec-fe09-4225-985e-f6a28793b9b7" />
+
 I am an aspiring Agentic AI Engineer focused on building intelligent, production-oriented AI applications using modern AI frameworks and backend technologies.
 
 🚀 Skills
