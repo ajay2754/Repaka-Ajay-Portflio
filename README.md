@@ -19,6 +19,8 @@ I am an aspiring Agentic AI Engineer focused on building intelligent, production
 - Docker
 - React / Vite
 
+- <img width="2858" height="1356" alt="image" src="https://github.com/user-attachments/assets/93545a8c-a8a9-4ae7-8245-29ac10838429" />
+
 🤖 Projects
 
 Bright AI
@@ -33,6 +35,8 @@ AI PDF Chat Agent
 
 An AI application that allows users to interact with and ask questions about PDF documents.
 
+<img width="1858" height="1268" alt="image" src="https://github.com/user-attachments/assets/62a13588-55d5-41af-9b24-76d2ef069206" />
+
 🎯 Career Goal
 
 My goal is to become a professional Agentic AI Engineer and build reliable AI agents and real-world AI products.
@@ -44,5 +48,6 @@ This repository contains the source code for my personal portfolio website.
 Built with React, Vite, TypeScript, and modern web technologies.
 
 📬 Connect
+<img width="1924" height="1072" alt="image" src="https://github.com/user-attachments/assets/c3befe80-272a-4ef0-816c-bc7cc440f895" />
 
 I'm open to Agentic AI, Generative AI, AI Agent, and Python development opportunities.
